@@ -1,3 +1,4 @@
+#program to print reverse of a number
 num = int(input("Enter number: "))
 reversed_num = 0
 
